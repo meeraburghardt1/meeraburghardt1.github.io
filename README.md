@@ -8,3 +8,4 @@
 A plot I made showing disparities across education and race in South Africa:
 
 ![Figure of Unemployment Plot](figures/Pasted%20Graphic.png)
+! [Figure 1](figures/unemployment_byregion.pdf)
