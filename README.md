@@ -8,4 +8,7 @@
 A plot I made showing disparities across education and race in South Africa:
 
 ![Figure of Unemployment Plot](Figures/Pasted%20Graphic.png)
-![Figure 1](Figures/unemployment_byregion.pdf)
+
+## Gender Patterns in Unemployment in Namibia
+A plot I made showing employment rates across different regions in Namibia broken down by Gender:
+![Figure showing Unemployment Rates Across Regions in Namibia broken down by Gender](Figures/unemployment_byregion.pdf)
